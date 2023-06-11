@@ -11,6 +11,7 @@ import streamlit as st
 
 #text:str = "What is Text Summarization?"
 st.title('Text Summarization')
+print("Text summarization")
 
 # app = FastAPI()
 
